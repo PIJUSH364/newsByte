@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsHunter/static/css/main.073c9b0a.css",
+    "main.js": "/newsHunter/static/js/main.7de7cf54.js",
+    "static/js/787.28cb0dcd.chunk.js": "/newsHunter/static/js/787.28cb0dcd.chunk.js",
+    "static/media/loading.gif": "/newsHunter/static/media/loading.8198bc5557fe5233d87e.gif",
+    "index.html": "/newsHunter/index.html",
+    "main.073c9b0a.css.map": "/newsHunter/static/css/main.073c9b0a.css.map",
+    "main.7de7cf54.js.map": "/newsHunter/static/js/main.7de7cf54.js.map",
+    "787.28cb0dcd.chunk.js.map": "/newsHunter/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7de7cf54.js"
+  ]
+}
